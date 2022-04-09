@@ -1,4 +1,6 @@
-
+.general{
+  padding: 0 3em;
+}
 
 .logo{
 display: flex;
@@ -6,7 +8,7 @@ justify-content: center;
 }
 
 .search {
-  background-color: #cdc9c9;
+  background-color: #edecec;
   display: flex;
   flex-direction: column;
   justify-content: center;
